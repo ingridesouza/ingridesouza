@@ -31,8 +31,8 @@
 
 ### 📅 Conecte-se comigo:
 - [LinkedIn](https://www.linkedin.com/in/ingridesouza/)
-- [Instagram](https://www.instagram.com/ingrider_souza/)
-- [Gmail](mailto:ingrider.souza@exemplo.com)
+- [Instagram](https://www.instagram.com/ingridesouzadev/)
+- [Gmail](mailto:ingridesouza040@gmail.com)
 
 ---
 
