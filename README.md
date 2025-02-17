@@ -46,8 +46,8 @@ Atualmente, estou me dedicando a projetos que envolvem **inteligência artificia
 
 ### 📅 Conecte-se comigo:
 - [LinkedIn](https://www.linkedin.com/in/ingridesouza/)
-- [Instagram](https://www.instagram.com/ingrider_souza/)
-- Email: ingrider.souza@exemplo.com
+- [Instagram](https://www.instagram.com/ingridesouzadev/)
+- Email: ingridesouza040@gmail.com
 
 ---
 
