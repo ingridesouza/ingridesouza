@@ -2,7 +2,6 @@
 
 **Uma apaixonada por tecnologia e desenvolvimento!** Meu foco é ser uma **desenvolvedora Full Stack**, criando soluções inovadoras e sempre explorando novas ferramentas.
 
-![Ingride Souza](https://www.example.com/minha-imagem.jpg) <!-- Adicione aqui o link da sua imagem -->
 
 ### 🛠️ Tecnologias que trabalho:
 
