@@ -1,5 +1,5 @@
 # Olá, eu sou a Ingride Souza! 👩‍💻
-Bem-vindo(a) ao meu perfil! Sou apaixonada por tecnologia e desenvolvimento, sempre em busca de criar soluções inovadoras e explorar novas ferramentas. Meu objetivo é crescer como **desenvolvedora Full Stack**, contribuindo para projetos que impactem positivamente a vida das pessoas.
+Bem-vindo(a) ao meu perfil! Sou uma desenvolvedora apaixonada por tecnologia, com carinho especial pelo Back-end e disposição para atuar também no Front-end quando necessário. Busco sempre inovar e explorar novas ferramentas, entregando soluções que façam a diferença e contribuam para projetos de forma positiva e escalável. Meu objetivo é crescer como desenvolvedora Full Stack, aplicando as melhores práticas e aprendendo constantemente para impactar a vida das pessoas por meio da tecnologia.
 
 ---
 
