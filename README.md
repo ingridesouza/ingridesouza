@@ -1,7 +1,3 @@
-Aqui está uma versão revisada e mais envolvente para o seu README. Você pode copiar e substituir o conteúdo caso goste do resultado:
-
----
-
 # Olá, eu sou a Ingride Souza! 👩‍💻
 Bem-vindo(a) ao meu perfil! Sou apaixonada por tecnologia e desenvolvimento, sempre em busca de criar soluções inovadoras e explorar novas ferramentas. Meu objetivo é crescer como **desenvolvedora Full Stack**, contribuindo para projetos que impactem positivamente a vida das pessoas.
 
