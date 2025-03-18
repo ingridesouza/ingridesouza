@@ -8,9 +8,11 @@ Bem-vindo(a) ao meu perfil! Sou uma desenvolvedora apaixonada por tecnologia, co
 
 ---
 
-### 🌱 O que estou aprendendo agora
-- **Desenvolvimento com IA**: Explorando **Machine Learning** para criar sistemas inteligentes.
-- **Chatbots**: Construindo bots para automatizar processos e interações.
+### O que estou aprendendo agora
+
+- **Machine Learning**: Aprofundando conhecimentos para criar sistemas mais inteligentes.
+- **Automação e IA**: Explorando novas formas de implementar inteligência artificial em projetos e automatizar processos.
+- **Criação de agentes**: Desenvolvendo agentes conversacionais e de análise para interagir com usuários e auxiliar em diversas tarefas.
 
 ---
 
