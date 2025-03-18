@@ -23,9 +23,17 @@ Bem-vindo(a) ao meu perfil! Sou uma desenvolvedora apaixonada por tecnologia, co
 ---
 
 ### 🔨 Repositórios em Destaque
-- [**Meu Chatbot**](https://github.com/ingridesouza/chatbot): Projeto de automação de interações.
-- [**Projeto de IA**](https://github.com/ingridesouza/ia-projeto): Aplicação prática de **Machine Learning**.
-- [**Portfólio Full Stack**](https://github.com/ingridesouza/portfolio): Repositório com projetos de desenvolvimento web.
+> Todos os repositórios listados abaixo são **privados**, por isso não estão visíveis publicamente.
+
+- **Crypto Tracker**  
+  - Sistema de acompanhamento de criptomoedas que utiliza **IA** para análise de mercado.  
+  - Possui um agente conversacional para tirar dúvidas dos usuários, realizar conversões e fornecer descrições detalhadas de cada cripto.
+
+- **Empresa de Soluções de Software**  
+  - Página institucional para divulgar serviços e produtos de tecnologia, mostrando as soluções oferecidas pela empresa.
+
+- **Sistema de Seguro de Celular**  
+  - Projeto em desenvolvimento para gerenciar apólices e simular seguros de dispositivos móveis.
 
 ---
 
