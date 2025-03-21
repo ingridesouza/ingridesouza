@@ -8,7 +8,7 @@ Olá! Sou uma desenvolvedora apaixonada por criar soluções que realmente fazem
 
 ---
 
-### O que estou aprendendo agora
+### 👩‍💻 O que estou aprendendo agora
 
 - **Machine Learning**
 - **Explorando novas formas de implementar inteligência artificial em projetos e automatizar processos**
