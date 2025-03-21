@@ -53,4 +53,4 @@ Olá! Sou uma desenvolvedora apaixonada por criar soluções que realmente fazem
 ---
 
 **Obrigado(a) pela visita!**  
-Fique à vontade para explorar meus repositórios e me chamar para bater um papo ou colaborar em projetos. Adoro desafios e estou sempre pronta para aprender coisas novas!
+Curiosa por novos desafios, estou sempre aberta a aprender e colaborar. Sinta-se à vontade para explorar meus repositórios e trocar uma ideia!
