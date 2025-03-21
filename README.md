@@ -10,9 +10,9 @@ Olá! Sou uma desenvolvedora apaixonada por criar soluções que realmente fazem
 
 ### O que estou aprendendo agora
 
-- **Machine Learning**: Aprofundando conhecimentos para criar sistemas mais inteligentes.
-- **Automação e IA**: Explorando novas formas de implementar inteligência artificial em projetos e automatizar processos.
-- **Criação de agentes**: Desenvolvendo agentes conversacionais e de análise para interagir com usuários e auxiliar em diversas tarefas.
+- **Machine Learning**
+- **Explorando novas formas de implementar inteligência artificial em projetos e automatizar processos**
+- **Criação de agentes**
 
 ---
 
