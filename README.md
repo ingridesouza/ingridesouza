@@ -41,7 +41,7 @@ Bem-vindo(a) ao meu perfil! Sou uma desenvolvedora apaixonada por tecnologia, co
 
 ### 🗣️ Idiomas
 - **Português** (Nativo)  
-- **Inglês** (Intermediário)
+- **Inglês** (Aprendendo)
 
 ---
 
