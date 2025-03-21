@@ -1,5 +1,5 @@
 # Olá, eu sou a Ingride Souza! 👩‍💻
-Olá! Sou uma desenvolvedora apaixonada por criar soluções que realmente fazem a diferença. Amo o Back-end, mas encaro o Front-end sempre que preciso. 
+Sou uma desenvolvedora apaixonada por criar soluções que realmente fazem a diferença. Amo o Back-end, mas encaro o Front-end sempre que preciso. 
 
 ---
 
