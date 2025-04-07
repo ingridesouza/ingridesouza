@@ -67,4 +67,4 @@ Sou uma desenvolvedora apaixonada por criar soluções que realmente fazem a dif
 
 
 **Obrigada pela visita!**  
-Curiosa por novos desafios, estou sempre aberta a aprender e colaborar. Sinta-se à vontade para explorar meus repositórios e trocar uma ideia!
+Curiosa por novos desafios, estou sempre aberta a aprender e colaborar. Sinta-se à vontade para explorar meus repositórios e me enviar uma mensagem!
