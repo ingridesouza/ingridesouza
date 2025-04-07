@@ -33,7 +33,7 @@ Sou uma desenvolvedora apaixonada por criar soluções que realmente fazem a dif
 
 
 ### 🔨 Repositórios em Destaque
-> Todos os repositórios listados abaixo são **privados**, por isso não estão visíveis publicamente.
+> Alguns dos repositórios listados abaixo são **privados**, por isso não estão visíveis publicamente.
 
 - **Crypto Tracker**  
   - Sistema de acompanhamento de criptomoedas que utiliza **IA** (DeepSeek) para análise de mercado.  
