@@ -36,7 +36,7 @@ Sou uma desenvolvedora apaixonada por criar soluções que realmente fazem a dif
 > Todos os repositórios listados abaixo são **privados**, por isso não estão visíveis publicamente.
 
 - **Crypto Tracker**  
-  - Sistema de acompanhamento de criptomoedas que utiliza **IA** para análise de mercado.  
+  - Sistema de acompanhamento de criptomoedas que utiliza **IA** (DeepSeek) para análise de mercado.  
   - Possui um agente conversacional para tirar dúvidas dos usuários, realizar conversões e fornecer descrições detalhadas de cada cripto.
 
 - **Empresa de Soluções de Software**  
