@@ -107,7 +107,7 @@ class Desenvolvedora:
 ## 🗣️ Idiomas
 
 - **Português** (Nativo)  
-- **Inglês** (Aprendendo)
+- **Inglês** (Leitura/Técnico)
 
 ---
 
