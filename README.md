@@ -5,14 +5,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&width=500&lines=Olá+%2C+eu+sou+a+Ingride+Souza!;Transformando+ideias+em+código;Criando+soluções+que+fazem+a+diferença" alt="Typing animation" />
-</div>
-
-<div>
-  <img src="https://komarev.com/ghpvc/?username=ingridesouza&label=Profile+Views&color=ff79c6&style=flat" alt="Profile views" /> 
-  <a href="https://github.com/ingridesouza?tab=repositories"><img src="https://img.shields.io/badge/Projetos-10+-ff79c6" alt="Total Projects"></a>
-  <a href="https://github.com/ingridesouza?tab=stars"><img src="https://img.shields.io/badge/Stars-20+-ff79c6" alt="Total Stars"></a>
-  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">
-</div>
+</div
 
 </div>
 
