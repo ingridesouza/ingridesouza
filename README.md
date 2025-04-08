@@ -18,7 +18,7 @@
 
 ---
 
-## 👩‍💻 Sobre Mim
+## Sobre Mim
 
 Sou uma desenvolvedora apaixonada por **construir soluções que fazem a diferença**. Meu foco principal é **Back-end**, mas não hesito em encarar **Front-end** quando necessário. Gosto de **explorar aplicações de inteligência artificial**, experimentando técnicas de **Machine Learning** e **agentes autônomos** para resolver problemas reais.
 
@@ -38,14 +38,14 @@ class Desenvolvedora:
         return f"{self.nome} | Transformando café em código desde 2023 ☕💻"
 ```
 
-- 🧠 **Machine Learning & IA:** sempre buscando novas formas de automatizar processos e criar **sistemas inteligentes**.  
-- 🌐 **Front-end quando preciso:** HTML, CSS, JavaScript e TypeScript.  
-- 🔄 **Boas práticas de engenharia de software** para criar sistemas escaláveis.  
-- 💡 **Sempre aprendendo e explorando** novas tecnologias para desenvolver projetos inovadores.
+- **Machine Learning & IA:** sempre buscando novas formas de automatizar processos e criar **sistemas inteligentes**.  
+- **Front-end quando preciso:** HTML, CSS, JavaScript e TypeScript.  
+- **Boas práticas de engenharia de software** para criar sistemas escaláveis.  
+- **Sempre aprendendo e explorando** novas tecnologias para desenvolver projetos inovadores.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div align="center">
 <table>
@@ -92,7 +92,7 @@ class Desenvolvedora:
 
 ---
 
-## 🔥 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto                          | Descrição                                                                                   | Tecnologias                     | Status              |
 |----------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|----------------------|
@@ -104,7 +104,7 @@ class Desenvolvedora:
 
 ---
 
-## 🌱 O que estou aprendendo agora
+## O que estou aprendendo agora
 
 - **Machine Learning:** aprofundando técnicas de classificação, regressão e redes neurais.  
 - **IA Generativa e Criação de Agentes:** explorando novas formas de implementar soluções autônomas. 
@@ -112,7 +112,7 @@ class Desenvolvedora:
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## Minhas Estatísticas no GitHub
 
 <div align="center">
   
