@@ -1,15 +1,13 @@
 <div align="center">
   
-# 🚀 Ingride Souza  
+# Ingride Souza  
 ### Desenvolvedora Full Stack | Python & IA
 
 <div align="center">
-  <!-- Animação com texto digitando -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&width=500&lines=Olá+%2C+eu+sou+a+Ingride+Souza!;Transformando+ideias+em+código;Criando+soluções+que+fazem+a+diferença" alt="Typing animation" />
 </div>
 
 <div>
-  <!-- Badges -->
   <img src="https://komarev.com/ghpvc/?username=ingridesouza&label=Profile+Views&color=ff79c6&style=flat" alt="Profile views" /> 
   <a href="https://github.com/ingridesouza?tab=repositories"><img src="https://img.shields.io/badge/Projetos-10+-ff79c6" alt="Total Projects"></a>
   <a href="https://github.com/ingridesouza?tab=stars"><img src="https://img.shields.io/badge/Stars-20+-ff79c6" alt="Total Stars"></a>
@@ -28,7 +26,7 @@ Sou uma desenvolvedora apaixonada por **construir soluções que fazem a diferen
 class Desenvolvedora:
     def __init__(self):
         self.nome = "Ingride Souza"
-        self.area = "Back-end & IA"
+        self.area = "Full Stack"
         self.habilidades = [
             "Python", "Flask", "Machine Learning", 
             "JavaScript/TypeScript", "SQL", 
@@ -41,7 +39,6 @@ class Desenvolvedora:
 ```
 
 - 🧠 **Machine Learning & IA:** sempre buscando novas formas de automatizar processos e criar **sistemas inteligentes**.  
-- ⚡ **Multiprocessamento:** aproveitando o poder do *parallel computing* em Python para lidar com alto volume de dados e otimizar algoritmos de IA.  
 - 🌐 **Front-end quando preciso:** HTML, CSS, JavaScript e TypeScript.  
 - 🔄 **Boas práticas de engenharia de software** para criar sistemas escaláveis.  
 - 💡 **Sempre aprendendo e explorando** novas tecnologias para desenvolver projetos inovadores.
@@ -99,21 +96,18 @@ class Desenvolvedora:
 
 | Projeto                          | Descrição                                                                                   | Tecnologias                     | Status              |
 |----------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|----------------------|
-| **Crypto Tracker**               | Sistema de análise preditiva de criptomoedas com IA integrada. Possui agente conversacional para dúvidas e conversões. | Python, TensorFlow, Flask       | 🚀 Produção         |
-| **Sistema de Seguro de Celular** | Projeto em desenvolvimento para gerenciar apólices e simular seguros de dispositivos móveis. | TypeScript, Node.js, MySQL      | 🔧 Desenvolvimento  |
-| **Chatbot Financeiro**           | Assistente virtual que utiliza NLP para consultas financeiras personalizadas.               | Python, Dialogflow, Firebase    | 🎯 MVP              |
-| **Empresa de Soluções de Software** | Página institucional para divulgar serviços/produtos de tecnologia.                         | HTML5, CSS3, JavaScript         | 📝 Em Planejamento  |
+| **Crypto Tracker**               | Sistema de análise preditiva de criptomoedas com IA integrada. Possui agente conversacional para dúvidas e conversões. | Python, TensorFlow, DeepSeek, Js, Flask       |   Produção         |
+| **Sistema de Seguro de Celular** | Projeto em desenvolvimento para gerenciar apólices e simular seguros de dispositivos móveis. | TypeScript, Node.js, MySQL      |   Desenvolvimento  |
+| **Empresa de Soluções de Software** | Página institucional para divulgar serviços/produtos de tecnologia.                         | HTML5, CSS3, JavaScript         |   Em Planejamento  |
 
-> *Alguns projetos podem estar em repositórios privados. Demonstrações sob requisição!*  
-> *Em projetos de IA, utilizo **multiprocessamento** para otimizar processos de treinamento e análise de grandes volumes de dados.*
+> *Alguns projetos podem estar em repositórios privados.*  
 
 ---
 
 ## 🌱 O que estou aprendendo agora
 
 - **Machine Learning:** aprofundando técnicas de classificação, regressão e redes neurais.  
-- **IA Generativa e Criação de Agentes:** explorando novas formas de implementar soluções autônomas.  
-- **Parallel Computing:** adotando modelos de *multiprocessing* em Python para melhorar performance.  
+- **IA Generativa e Criação de Agentes:** explorando novas formas de implementar soluções autônomas. 
 - **Microserviços** com contêineres e Kubernetes para escalabilidade.
 
 ---
