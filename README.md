@@ -112,11 +112,7 @@ class Desenvolvedora:
 
 ---
 
-## Minhas Estatísticas no GitHub
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ingridesouza&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<div>
 
 [![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=ingridesouza&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
 
