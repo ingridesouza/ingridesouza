@@ -98,8 +98,6 @@ class Desenvolvedora:
 
 <div style="display: flex;">
 
-[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=ingridesouza&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ingridesouza&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
