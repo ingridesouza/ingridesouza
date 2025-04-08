@@ -28,12 +28,6 @@ class Desenvolvedora:
     def __str__(self):
         return f"{self.nome} | Transformando café em código desde 2023 ☕💻"
 ```
- 
-- **Front-end quando preciso:** HTML, CSS, JavaScript e TypeScript.  
-- **Boas práticas de engenharia de software** para criar sistemas escaláveis.  
-- **Sempre aprendendo e explorando** novas tecnologias para desenvolver projetos inovadores.
-
----
 
 ## Tecnologias e Ferramentas
 
