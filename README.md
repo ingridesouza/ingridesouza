@@ -4,7 +4,7 @@
 ### Desenvolvedora Full Stack | Python & IA
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&width=500&lines=Criando+soluções+que+resolvem+problemas;Transformando+ideias+em+código;Busca+constante+por+excelência" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&width=500&lines=Aprendendo,+codando,+evoluindo;Transformando+ideias+em+código;Busca+constante+por+excelência" alt="Typing animation" />
 </div>
 
 <div>
