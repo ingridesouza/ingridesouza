@@ -4,10 +4,12 @@
 ### Desenvolvedora Full Stack | Python & IA
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&width=500&lines=Aprendendo,+codando,+evoluindo;Transformando+ideias+em+código;Busca+constante+por+excelência" alt="Typing animation" />
+  <!-- Animação com texto digitando -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&width=500&lines=Olá+%2C+eu+sou+a+Ingride+Souza!;Transformando+ideias+em+código;Criando+soluções+que+fazem+a+diferença" alt="Typing animation" />
 </div>
 
 <div>
+  <!-- Badges -->
   <img src="https://komarev.com/ghpvc/?username=ingridesouza&label=Profile+Views&color=ff79c6&style=flat" alt="Profile views" /> 
   <a href="https://github.com/ingridesouza?tab=repositories"><img src="https://img.shields.io/badge/Projetos-10+-ff79c6" alt="Total Projects"></a>
   <a href="https://github.com/ingridesouza?tab=stars"><img src="https://img.shields.io/badge/Stars-20+-ff79c6" alt="Total Stars"></a>
@@ -20,81 +22,72 @@
 
 ## 👩‍💻 Sobre Mim
 
+Sou uma desenvolvedora apaixonada por **construir soluções que fazem a diferença**. Meu foco principal é **Back-end**, mas não hesito em encarar **Front-end** quando necessário. Gosto de **explorar aplicações de inteligência artificial**, experimentando técnicas de **Machine Learning** e **agentes autônomos** para resolver problemas reais.
+
 ```python
 class Desenvolvedora:
     def __init__(self):
         self.nome = "Ingride Souza"
-        self.area = "Back-end | IA"
-        self.habilidades = ["Python", "Flask", "Machine Learning", "Sistemas Inteligentes"]
-        self.missao = "Criar soluções tecnológicas que resolvam problemas reais"
-        
+        self.area = "Back-end & IA"
+        self.habilidades = [
+            "Python", "Flask", "Machine Learning", 
+            "JavaScript/TypeScript", "SQL", 
+            "HTML/CSS", "WordPress", "Sistemas Inteligentes"
+        ]
+        self.missao = "Criar soluções tecnológicas de impacto"
+
     def __str__(self):
         return f"{self.nome} | Transformando café em código desde 2023 ☕💻"
 ```
 
+- 🧠 **Machine Learning & IA:** sempre buscando novas formas de automatizar processos e criar **sistemas inteligentes**.  
+- ⚡ **Multiprocessamento:** aproveitando o poder do *parallel computing* em Python para lidar com alto volume de dados e otimizar algoritmos de IA.  
+- 🌐 **Front-end quando preciso:** HTML, CSS, JavaScript e TypeScript.  
+- 🔄 **Boas práticas de engenharia de software** para criar sistemas escaláveis.  
+- 💡 **Sempre aprendendo e explorando** novas tecnologias para desenvolver projetos inovadores.
 
-Sou uma desenvolvedora apaixonada por construir sistemas back-end eficientes e explorar aplicações práticas de inteligência artificial. Minha jornada na programação envolve:
-
-- 🧠 **Aplicando conceitos de Machine Learning** em projetos desafiadores
-- ⚡ **Desenvolvendo sistemas otimizados** com boas práticas de engenharia de software
-- 🔄 **Implementando automações inteligentes** para resolver problemas do dia a dia
-- 💡 **Experimentando novas tecnologias** para criar soluções inovadoras
-
-Meu foco atual está em:
-- Aprofundar meus conhecimentos em arquitetura de sistemas
-- Explorar aplicações práticas de IA generativa
-- Desenvolver habilidades full stack mais robustas
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Linguagens & Frameworks
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="48" height="48" />
-      <br>Python
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br><strong>HTML5</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" />
-      <br>TensorFlow
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br><strong>CSS3</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="48" height="48" />
-      <br>Flask
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br><strong>JS</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
-      <br>JavaScript
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br><strong>TS</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" />
-      <br>TypeScript
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br><strong>Python</strong>
     </td>
-  </tr>
-</table>
-</div>
-
-### 🗃️ Bancos de Dados & Infraestrutura
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" />
-      <br>MySQL
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
+      <br><strong>Flask</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" />
-      <br>PostgreSQL
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="48" height="48" alt="WordPress" />
+      <br><strong>WordPress</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="48" height="48" />
-      <br>Docker
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
+      <br><strong>MySQL</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="48" height="48" />
-      <br>Azure
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="IA" />
+      <br><strong>TensorFlow</strong>
     </td>
   </tr>
 </table>
@@ -104,17 +97,28 @@ Meu foco atual está em:
 
 ## 🔥 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias | Status |
-|---------|-----------|-------------|--------|
-| **Crypto Tracker** | Sistema de análise preditiva de criptomoedas com IA integrada | Python, TensorFlow, Flask | 🚀 Produção |
-| **Sistema de Seguros** | Plataforma completa para gerenciamento automatizado de apólices | TypeScript, React, Node.js | 🔧 Desenvolvimento |
-| **Chatbot Financeiro** | Assistente virtual com NLP para consultas financeiras personalizadas | Python, Dialogflow, Firebase | 🎯 MVP |
+| Projeto                          | Descrição                                                                                   | Tecnologias                     | Status              |
+|----------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|----------------------|
+| **Crypto Tracker**               | Sistema de análise preditiva de criptomoedas com IA integrada. Possui agente conversacional para dúvidas e conversões. | Python, TensorFlow, Flask       | 🚀 Produção         |
+| **Sistema de Seguro de Celular** | Projeto em desenvolvimento para gerenciar apólices e simular seguros de dispositivos móveis. | TypeScript, Node.js, MySQL      | 🔧 Desenvolvimento  |
+| **Chatbot Financeiro**           | Assistente virtual que utiliza NLP para consultas financeiras personalizadas.               | Python, Dialogflow, Firebase    | 🎯 MVP              |
+| **Empresa de Soluções de Software** | Página institucional para divulgar serviços/produtos de tecnologia.                         | HTML5, CSS3, JavaScript         | 📝 Em Planejamento  |
 
-> 💡 *Alguns projetos estão em repositórios privados - disponível para demonstração sob requisição*
+> *Alguns projetos podem estar em repositórios privados. Demonstrações sob requisição!*  
+> *Em projetos de IA, utilizo **multiprocessamento** para otimizar processos de treinamento e análise de grandes volumes de dados.*
 
 ---
 
-## 📈 Minhas Métricas
+## 🌱 O que estou aprendendo agora
+
+- **Machine Learning:** aprofundando técnicas de classificação, regressão e redes neurais.  
+- **IA Generativa e Criação de Agentes:** explorando novas formas de implementar soluções autônomas.  
+- **Parallel Computing:** adotando modelos de *multiprocessing* em Python para melhorar performance.  
+- **Microserviços** com contêineres e Kubernetes para escalabilidade.
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
   
@@ -128,16 +132,14 @@ Meu foco atual está em:
 
 ---
 
-## 🌱 Atualmente Aprendendo
+## 🗣️ Idiomas
 
-- **Arquitetura de Microsserviços** com Kubernetes
-- **Otimização** de modelos de Machine Learning
-- **Engenharia de Prompt** para LLMs
-- **Desenvolvimento** de Agentes Autônomos
+- **Português** (Nativo)  
+- **Inglês** (Aprendendo)
 
 ---
 
-## 📫 Vamos Conectar
+## 📫 Conecte-se Comigo
 
 <div align="center">
   
@@ -154,4 +156,5 @@ Meu foco atual está em:
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Obrigada+pela+visita!&fontSize=24&fontColor=fff)
 
+**Curiosa por novos desafios, estou sempre aberta a aprender e colaborar.**  
 </div>
