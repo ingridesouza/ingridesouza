@@ -11,7 +11,7 @@
 
 ---
 
-Sou uma desenvolvedora apaixonada por **construir soluções que fazem a diferença**. Meu foco principal é **Back-end**, mas não hesito em encarar **Front-end** quando necessário. Gosto de **explorar aplicações de inteligência artificial**, experimentando técnicas de **Machine Learning** e **agentes autônomos** para resolver problemas reais.
+Sou uma desenvolvedora apaixonada por **construir soluções que fazem a diferença**. Amo o Back-end, mas encaro o Front-end sempre que preciso. Gosto de **explorar aplicações de inteligência artificial**, experimentando técnicas de **Machine Learning** e **agentes autônomos** para resolver problemas reais.
 
 ```python
 class Desenvolvedora:
