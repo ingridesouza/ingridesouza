@@ -1,17 +1,13 @@
+# 🚀 Ingride Souza | Desenvolvedora Back-end & IA
+
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&width=500&lines=Transformando+código+em+soluções+inteligentes;Criadora+de+sistemas+que+aprendem+e+evoluem" alt="Typing animation" />
   
-# 🚀 Ingride Souza 
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Desenvolvedora+Back-end+%7C+Especialista+em+IA;Transformando+código+em+soluções+inteligentes;Criadora+de+sistemas+que+aprendem+e+evoluem" alt="Typing animation" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ingridesouza&label=Profile+Views&color=ff79c6&style=flat" alt="Profile views" /> 
-  <a href="https://github.com/ingridesouza?tab=repositories"><img src="https://img.shields.io/badge/Projetos-10+-ff79c6" alt="Total Projects"></a>
-  <a href="https://github.com/ingridesouza?tab=stars"><img src="https://img.shields.io/badge/Stars-20+-ff79c6" alt="Total Stars"></a>
-</div>
-
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=ingridesouza&label=Profile+Views&color=ff79c6&style=flat" alt="Profile views" /> 
+    <a href="https://github.com/ingridesouza?tab=repositories"><img src="https://img.shields.io/badge/Projetos-10+-ff79c6" alt="Total Projects"></a>
+    <a href="https://github.com/ingridesouza?tab=stars"><img src="https://img.shields.io/badge/Stars-20+-ff79c6" alt="Total Stars"></a>
+  </div>
 </div>
 
 ---
