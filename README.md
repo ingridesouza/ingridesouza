@@ -1,5 +1,11 @@
 # Olá, eu sou a Ingride Souza! 👩‍💻
-![Hello World](https://media.giphy.com/media/juua9Gi2didtW/giphy.gif)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Desenvolvedora+Back-end;Apaixonada+por+IA;Criadora+de+soluções" alt="Typing animation" />
+</div>
+
+### 🎯 Meu Progresso
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ingridesouza&theme=radical)
+
 Sou uma desenvolvedora apaixonada por criar soluções que realmente fazem a diferença. Amo o Back-end, mas encaro o Front-end sempre que preciso. 
 
 
