@@ -98,7 +98,7 @@ class Desenvolvedora:
 |----------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|----------------------|
 | **Crypto Tracker**               | Sistema de análise preditiva de criptomoedas com IA integrada. Possui agente conversacional para dúvidas e conversões. | Python, TensorFlow, DeepSeek, Js, Flask       |   Produção         |
 | **Sistema de Seguro de Celular** | Projeto em desenvolvimento para gerenciar apólices e simular seguros de dispositivos móveis. | TypeScript, Node.js, MySQL      |   Desenvolvimento  |
-| **Empresa de Soluções de Software** | Página institucional para divulgar serviços/produtos de tecnologia.                         | HTML5, CSS3, JavaScript         |   Em Planejamento  |
+| **Empresa de Soluções de Software** | Página institucional para divulgar serviços/produtos de tecnologia.                         | HTML5, CSS3, JavaScript         |   Produção  |
 
 > *Alguns projetos podem estar em repositórios privados.*  
 
