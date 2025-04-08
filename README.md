@@ -3,9 +3,9 @@
 # 🚀 Ingride Souza  
 ### Desenvolvedora Full Stack | Python & IA
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&width=500&lines=Python+%7C+Machine+Learning;Full+Stack+Developer;IA+Generativa+%26+LLMs" alt="Typing animation" />
-</div>
+
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&width=500&lines=Python+%7C+Machine+Learning;Full+Stack+Developer;IA+Generativa+%26+LLMs" alt="Typing animation" />
+
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=ingridesouza&label=Profile+Views&color=ff79c6&style=flat" alt="Profile views" /> 
