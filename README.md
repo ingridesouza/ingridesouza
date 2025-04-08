@@ -29,16 +29,21 @@ class Desenvolvedora:
         self.missao = "Criar soluções tecnológicas que resolvam problemas reais"
         
     def __str__(self):
-        return f"{self.nome} | Transformando café em código desde 2020 ☕💻"
+        return f"{self.nome} | Transformando café em código desde 2023 ☕💻"
 ```
 
-Sou especialista em desenvolver sistemas back-end robustos com integrações de inteligência artificial. Minha abordagem combina:
 
-- 🧠 **Machine Learning** aplicado a problemas reais
-- ⚡ **Sistemas eficientes** que escalam sob demanda
-- 🔄 **Processos automatizados** que aprendem continuamente
-- 💡 **Soluções inovadoras** para desafios complexos
+Sou uma desenvolvedora apaixonada por construir sistemas back-end eficientes e explorar aplicações práticas de inteligência artificial. Minha jornada na programação envolve:
 
+- 🧠 **Aplicando conceitos de Machine Learning** em projetos desafiadores
+- ⚡ **Desenvolvendo sistemas otimizados** com boas práticas de engenharia de software
+- 🔄 **Implementando automações inteligentes** para resolver problemas do dia a dia
+- 💡 **Experimentando novas tecnologias** para criar soluções inovadoras
+
+Meu foco atual está em:
+- Aprofundar meus conhecimentos em arquitetura de sistemas
+- Explorar aplicações práticas de IA generativa
+- Desenvolver habilidades full stack mais robustas
 ---
 
 ## 🛠️ Stack Tecnológico
