@@ -92,11 +92,13 @@ class Desenvolvedora:
 
 ---
 
+<div align="left">
 ## O que estou aprendendo agora
 
 - **Machine Learning:** aprofundando técnicas de classificação, regressão e redes neurais.  
 - **IA Generativa e Criação de Agentes:** explorando novas formas de implementar soluções autônomas. 
 - **Microserviços** com contêineres e Kubernetes para escalabilidade.
+</div>
 
 ---
 
@@ -108,10 +110,12 @@ class Desenvolvedora:
 
 ---
 
+<div align="left">
 ## 🗣️ Idiomas
 
 - **Português** (Nativo)  
 - **Inglês** (Leitura/Técnico)
+</div>
 
 ---
 
