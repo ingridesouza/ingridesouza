@@ -87,7 +87,7 @@ class Desenvolvedora:
 | **Empresa de Soluções de Software** | Página institucional para divulgar serviços/produtos de tecnologia.                         | HTML5, CSS3, JavaScript         |   Produção  |
 
 <div align="left">
-> *Alguns projetos podem estar em repositórios privados.*  
+  > *Alguns projetos podem estar em repositórios privados.*  
 </div>
 
 ---
