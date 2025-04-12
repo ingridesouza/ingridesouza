@@ -91,7 +91,7 @@ class Desenvolvedora:
 
 
 <div align="left">
-  > *Alguns projetos podem estar em repositórios privados.*  
+  > **Alguns projetos podem estar em repositórios privados.**  
 </div>
 
 ---
