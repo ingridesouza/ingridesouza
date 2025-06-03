@@ -70,6 +70,10 @@ class Desenvolvedora:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="IA" />
       <br><strong>TensorFlow</strong>
     </td>
+    <td align="center" width="96">
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)" width="48" height="48" alt="Docker" />
+      <br><strong>Docker</strong>
+    </td>
   </tr>
 </table>
 </div>
