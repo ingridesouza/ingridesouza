@@ -19,8 +19,8 @@ class Desenvolvedora:
         self.area = "Full Stack"
         self.habilidades = [
             "Python", "Flask", "Machine Learning", 
-            "JavaScript/TypeScript", "SQL", 
-            "HTML/CSS", "WordPress", "Sistemas Inteligentes"
+            "JavaScript", "SQL", 
+            "Django", "Docker", "Inteligência Artificial"
         ]
         self.missao = "Criar soluções tecnológicas de impacto"
 
