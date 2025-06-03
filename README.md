@@ -74,23 +74,6 @@ class Desenvolvedora:
 </table>
 </div>
 
----
-
-
-
-## Projetos em Destaque
-
-| Projeto                                   | Descrição                                                                                                                                             | Tecnologias                           | Status      |
-|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|
-| **Crypto Tracker**                        | Sistema de análise preditiva de criptomoedas com IA integrada. Possui agente conversacional para dúvidas e conversões.                                 | Python, TensorFlow, DeepSeek, JS, Flask | Produção    |
-| **Blog da Garota**                        | Blog inspirado na série "A Garota do Blog", desenvolvido para compartilhar insights, resenhas e análises de forma dinâmica e interativa.               | Flask, Python, TypeScript              | Desenvolvimento |
-| **Sistema de Gerenciamento de Biblioteca** | Sistema completo para o gerenciamento de acervos, empréstimos e devoluções, publicado online e em constante atualização para melhorias contínuas.    | Flask, Python, SQLite                  | Produção    |
-| **Empresa de Soluções de Software**       | Página institucional para divulgação de serviços e produtos de tecnologia.                                                                           | HTML5, CSS3, JavaScript                | Produção    |
-
-
-<div align="left">
-  > **Alguns projetos podem estar em repositórios privados.**  
-</div>
 
 ---
 
