@@ -100,7 +100,7 @@ class Desenvolvedora:
 ---
 
 <div align="left">
-### 🗣️ Idiomas
+🗣️ Idiomas
 
 - **Português** (Nativo)  
 - **Inglês** (Leitura/Técnico)
